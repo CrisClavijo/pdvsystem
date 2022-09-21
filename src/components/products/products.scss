@@ -1,0 +1,21 @@
+.products-catalog{
+    .header-content{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .header-content div{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .filter-content{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .btn-size{
+        width: 2em;
+        height: 2em !important;
+    }
+}
